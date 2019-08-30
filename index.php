@@ -1,4 +1,4 @@
-<body bgcolor='blue'>
+<body bgcolor='yellow'>
 
 <?php
 echo "Welcome to intellipaat ";
