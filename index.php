@@ -1,4 +1,4 @@
 <?php
 echo "Welcome to intellipaat";
-echo "Devops training";
+echo "Devops online training";
 ?>
